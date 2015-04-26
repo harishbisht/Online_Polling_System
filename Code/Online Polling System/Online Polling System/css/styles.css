@@ -1,0 +1,28 @@
+body
+{
+background-color : #efebe8;
+    height: 261px;
+    width: 996px;
+}
+.verticalLine {
+    border:thick solid #cccccc;
+    height: 413px;
+    width: 404px;
+}
+ .Footer
+        {
+          
+          
+            vertical-align:top;
+            margin-left: auto ;
+            border-style : solid;
+    
+           border-color : #cccccc;
+}
+.textbox
+{
+    background-color : #efebe8;
+}
+        
+
+     
